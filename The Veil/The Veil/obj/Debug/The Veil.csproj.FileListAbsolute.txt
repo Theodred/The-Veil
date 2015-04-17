@@ -1,0 +1,31 @@
+E:\Life\C#\Projects\Self\The Veil\The Veil\bin\Debug\The Veil.exe.config
+E:\Life\C#\Projects\Self\The Veil\The Veil\bin\Debug\The Veil.exe
+E:\Life\C#\Projects\Self\The Veil\The Veil\bin\Debug\The Veil.pdb
+E:\Life\C#\Projects\Self\The Veil\The Veil\obj\Debug\The Veil.csprojResolveAssemblyReference.cache
+E:\Life\C#\Projects\Self\The Veil\The Veil\obj\Debug\The_Veil.Properties.Resources.resources
+E:\Life\C#\Projects\Self\The Veil\The Veil\obj\Debug\The Veil.csproj.GenerateResource.Cache
+E:\Life\C#\Projects\Self\The Veil\The Veil\obj\Debug\The Veil.exe
+E:\Life\C#\Projects\Self\The Veil\The Veil\obj\Debug\The Veil.pdb
+E:\Life\C#\Projects\Self\The Veil\The Veil\obj\Debug\The_Veil.Veil.resources
+C:\Users\Theodred\AppData\Roaming\Skype\My Skype Received Files\The Veil\The Veil\bin\Debug\The Veil.exe.config
+C:\Users\Theodred\AppData\Roaming\Skype\My Skype Received Files\The Veil\The Veil\obj\Debug\The Veil.exe
+C:\Users\Theodred\AppData\Roaming\Skype\My Skype Received Files\The Veil\The Veil\obj\Debug\The Veil.pdb
+C:\Users\Theodred\AppData\Roaming\Skype\My Skype Received Files\The Veil\The Veil\bin\Debug\The Veil.exe
+C:\Users\Theodred\AppData\Roaming\Skype\My Skype Received Files\The Veil\The Veil\bin\Debug\The Veil.pdb
+C:\Users\Theodred\AppData\Roaming\Skype\My Skype Received Files\The Veil\The Veil\obj\Debug\The Veil.csprojResolveAssemblyReference.cache
+C:\Users\Theodred\AppData\Roaming\Skype\My Skype Received Files\The Veil\The Veil\obj\Debug\The_Veil.Veil.resources
+C:\Users\Theodred\AppData\Roaming\Skype\My Skype Received Files\The Veil\The Veil\obj\Debug\The_Veil.Properties.Resources.resources
+C:\Users\Theodred\AppData\Roaming\Skype\My Skype Received Files\The Veil\The Veil\obj\Debug\The Veil.csproj.GenerateResource.Cache
+C:\Users\Theodred\AppData\Roaming\Skype\My Skype Received Files\The Veil\The Veil\obj\Debug\Interop.WMPLib.dll
+C:\Users\Theodred\AppData\Roaming\Skype\My Skype Received Files\The Veil\The Veil\obj\Debug\The Veil.csproj.ResolveComReference.cache
+C:\Users\Theodred\Desktop\The Veil\The Veil\bin\Debug\The Veil.exe.config
+C:\Users\Theodred\Desktop\The Veil\The Veil\obj\Debug\Interop.WMPLib.dll
+C:\Users\Theodred\Desktop\The Veil\The Veil\obj\Debug\The Veil.csproj.ResolveComReference.cache
+C:\Users\Theodred\Desktop\The Veil\The Veil\obj\Debug\The Veil.exe
+C:\Users\Theodred\Desktop\The Veil\The Veil\obj\Debug\The Veil.pdb
+C:\Users\Theodred\Desktop\The Veil\The Veil\bin\Debug\The Veil.exe
+C:\Users\Theodred\Desktop\The Veil\The Veil\bin\Debug\The Veil.pdb
+C:\Users\Theodred\Desktop\The Veil\The Veil\obj\Debug\The Veil.csprojResolveAssemblyReference.cache
+C:\Users\Theodred\Desktop\The Veil\The Veil\obj\Debug\The_Veil.Veil.resources
+C:\Users\Theodred\Desktop\The Veil\The Veil\obj\Debug\The_Veil.Properties.Resources.resources
+C:\Users\Theodred\Desktop\The Veil\The Veil\obj\Debug\The Veil.csproj.GenerateResource.Cache
